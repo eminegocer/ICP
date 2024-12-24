@@ -1,1 +1,1 @@
-# ICP
+Patika üzerinden bu staja başvuru yaptım. Daha önce web geliştirme ile ilgilendim ve bu alanda projeler ürettim. Şu anda ise blockchain altyapısına sahip Web3 teknolojileri dikkatimi çekiyor ve kendimi bu alanda geliştirmeyi hedefliyorum. Bu stajın hem bilgi birikimimi artırmam hem de yeni teknolojilere adapte olmam için güzel bir fırsat olacağını düşünüyorum
